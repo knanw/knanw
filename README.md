@@ -34,6 +34,18 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+    👋 Hi, I’m @knanw
+    👀 I’m interested in Python programming for Machine Learning, CV, Data Science
+    🌱 I’m currently learning Python
+    💞️ I’m looking to collaborate on ...
+    📫 How to reach me ...
+    😄 Pronouns: ...
+    ⚡ Fun fact: ...
+
+
+
 <!---
 knanw/knanw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
